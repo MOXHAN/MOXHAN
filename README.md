@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MOXHAN
+- 👋 Hi, I’m Maxim
 - 👀 I’m interested in Machine Learning, DNNs, AI
 - 🌱 I’m currently learning Computer Vision with NVIDIAs Jetson AGX Orin
 
