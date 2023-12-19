@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maxim
-- 👀 I’m interested in Machine Learning, DNNs, AI
-- 🌱 I’m currently learning Computer Vision with NVIDIAs Jetson AGX Orin
-- My Languages are C, C++ and a little Python
+- 👀 I’m interested in Machine Learning, DNNs, CNNs and AI in general
+- 🌱 I’m currently learning Computer Vision with NVIDIAs Jetson AGX Orin and Ultralytics Yolo Model
+- My Languages are C, C++ and basics of Python
 - I also know basics in SQL and HTML + CSS + JavaScript
 
 <!---
