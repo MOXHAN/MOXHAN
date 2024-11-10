@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, DNNs, CNNs and AI in general
 - ✨ I have a Bachelors in Industrial Engineering and I’m currently pursuing a Masters Degree in Data Science
 - 🌱 I’m currently learning Computer Vision with NVIDIAs Jetson AGX Orin and Ultralytics Yolo Model
-- My Languages are C, C++ and Python
+- My Languages are mainly Python and a bit of C and C++
 - I also know basics in SQL and HTML + CSS + JavaScript
 
 <!---
